@@ -1,6 +1,6 @@
 # http://link2linux.blogspot.nl/2015/07/install-oracle-jdk-8-on-debian-81-jessie.html
 # http://www.webupd8.org/2014/03/how-to-install-oracle-java-8-in-debian.html
-TOMCAT_VERSION="8.0.30"
+TOMCAT_VERSION="8.0.32"
 
 echo "deb http://ppa.launchpad.net/webupd8team/java/ubuntu trusty main" | tee /etc/apt/sources.list.d/webupd8team-java.list
 echo "deb-src http://ppa.launchpad.net/webupd8team/java/ubuntu trusty main" | tee -a /etc/apt/sources.list.d/webupd8team-java.list
